@@ -1,0 +1,122 @@
+[
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.110Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.110Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.110Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.110Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.110Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.110Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.111Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.111Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.111Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.111Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.112Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.113Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.113Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.113Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.329Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.330Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR TypeError: Cannot read properties of null (reading 'cart_items')\n    at template (https://practicesoftwaretesting.com/chunk-4MSJTYQJ.js:1:29504)\n    at Vm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:39700)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:48997)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)\n    at GC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49953)\n    at ev (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50344)\n    at HC (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49352)\n    at rd (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:50165)\n    at Xm (https://practicesoftwaretesting.com/chunk-XPTZBBTO.js:7:49997)",
+    "timestamp": "2026-11-01T18:04:09.330Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR Object",
+    "timestamp": "2026-11-01T18:04:09.330Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR Object",
+    "timestamp": "2026-11-01T18:04:09.428Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  },
+  {
+    "level": "error",
+    "message": "ERROR Object",
+    "timestamp": "2026-11-01T18:04:09.626Z",
+    "url": "https://practicesoftwaretesting.com/chunk-XPTZBBTO.js"
+  }
+]

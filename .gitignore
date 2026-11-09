@@ -1,18 +1,4 @@
-# Python
 __pycache__/
 *.py[cod]
-
-# Secrets
-.env
-.env.*
-!.env.example
-*.pem
-*.key
-*.p12
-*.pfx
-secrets.*
-credentials.*
-
-# System
 .DS_Store
 Thumbs.db

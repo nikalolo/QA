@@ -1,0 +1,1408 @@
+- text: View the
+- link "Documentation":
+  - /url: https://testsmith-io.github.io/practice-software-testing/#/
+- text: for this application.
+- generic: Practice Black Box Testing & Bug Hunting
+- button "Testing Guide"
+- button "🐛 Bug Hunting"
+- navigation:
+  - link "Practice Software Testing - Toolshop":
+    - /url: /
+  - menubar "Main menu":
+    - menuitem "Home":
+      - link "Home":
+        - /url: /
+    - menuitem "Categories":
+      - button "Categories"
+    - menuitem "Contact":
+      - link "Contact":
+        - /url: /contact
+    - menuitem "Sign in":
+      - link "Sign in":
+        - /url: /auth/login
+  - button "Select language":
+    - text: EN
+- heading "Practice Software Testing - Toolshop" [level=1]
+- paragraph:
+  - img "Banner"
+- separator
+- text: Enjoyed testing this app? Level up with hands-on software testing courses.
+- link "Explore courses":
+  - /url: https://onlinecourses.testsmith.io/?utm_source=pst&utm_medium=homepage&utm_campaign=app_promo
+- heading "Sort" [level=4]:
+  - text: Sort
+- separator
+- combobox "sort":
+  - option
+  - option "Name (A - Z)"
+  - option "Name (Z - A)"
+  - option "Price (High - Low)"
+  - option "Price (Low - High)" [selected]
+  - option "CO₂ Rating (A - E)"
+  - option "CO₂ Rating (E - A)"
+- heading "Price Range" [level=4]:
+  - text: Price Range
+- separator
+- generic "ngx-slider":
+  - slider "ngx-slider"
+  - slider "ngx-slider-max"
+  - generic: "0"
+  - generic: "200"
+  - generic: "1"
+  - generic: "100"
+- heading "Search" [level=4]:
+  - text: Search
+- separator
+- generic: Search
+- textbox "Search"
+- button "X"
+- button "Search"
+- heading "Filters" [level=4]:
+  - text: Filters
+- separator
+- heading "By category:" [level=4]
+- group "Categories":
+  - generic: Categories
+  - checkbox "Hand Tools"
+  - text: Hand Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Hammer"
+      - text: Hammer
+      - checkbox "Hand Saw"
+      - text: Hand Saw
+      - checkbox "Wrench"
+      - text: Wrench
+      - checkbox "Screwdriver"
+      - text: Screwdriver
+      - checkbox "Pliers"
+      - text: Pliers
+      - checkbox "Chisels"
+      - text: Chisels
+      - checkbox "Measures"
+      - text: Measures
+  - checkbox "Power Tools"
+  - text: Power Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Grinder"
+      - text: Grinder
+      - checkbox "Sander"
+      - text: Sander
+      - checkbox "Saw"
+      - text: Saw
+      - checkbox "Drill"
+      - text: Drill
+  - checkbox "Other"
+  - text: Other
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Tool Belts"
+      - text: Tool Belts
+      - checkbox "Storage Solutions"
+      - text: Storage Solutions
+      - checkbox "Workbench"
+      - text: Workbench
+      - checkbox "Safety Gear"
+      - text: Safety Gear
+      - checkbox "Fasteners"
+      - text: Fasteners
+- heading "By brand:" [level=4]
+- group "Brands":
+  - generic: Brands
+  - checkbox "ForgeFlex Tools"
+  - text: ForgeFlex Tools
+  - checkbox "MightyCraft Hardware"
+  - text: MightyCraft Hardware
+- heading "Sustainability:" [level=4]
+- group "Eco-Friendly Products":
+  - generic: Eco-Friendly Products
+  - checkbox "Show only eco-friendly products"
+  - text: Show only eco-friendly products
+- 'link "Washers Compare Washers CO₂: A B C D E $3.55"':
+  - /url: /product/01M6C4A0YG2CEJ2PHD6ZE6YK5S
+  - img "Washers"
+  - button "Compare":
+  - heading "Washers" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $3.55
+- 'link "Flat-Head Wood Screws Compare Flat-Head Wood Screws CO₂: A B C D E $3.95"':
+  - /url: /product/01M6C4A0YAP17G24D86KFGW576
+  - img "Flat-Head Wood Screws"
+  - button "Compare":
+  - heading "Flat-Head Wood Screws" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $3.95
+- 'link "M4 Nuts Compare M4 Nuts CO₂: A B C D E $4.65"':
+  - /url: /product/01M6C4A0YDDD36AK3MSWJB7Q37
+  - img "M4 Nuts"
+  - button "Compare":
+  - heading "M4 Nuts" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $4.65
+- 'link "Phillips Screwdriver Compare Phillips Screwdriver CO₂: A B C D E $4.92"':
+  - /url: /product/01M6C4A0W7Q26EMBD4ZF2YJH3A
+  - img "Phillips Screwdriver"
+  - button "Compare":
+  - heading "Phillips Screwdriver" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $4.92
+- 'link "Nuts and bolts Compare Nuts and bolts CO₂: A B C D E $5.55"':
+  - /url: /product/01M6C4A0Y5QE982YX1BMEBPXGQ
+  - img "Nuts and bolts"
+  - button "Compare":
+  - heading "Nuts and bolts" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $5.55
+- 'link "Screws Compare Screws CO₂: A B C D E $6.25"':
+  - /url: /product/01M6C4A0Y3BF0125KCC55VTQBV
+  - img "Screws"
+  - button "Compare":
+  - heading "Screws" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $6.25
+- 'link "Tape Measure 7.5m Compare Tape Measure 7.5m CO₂: A B C D E $7.23"':
+  - /url: /product/01M6C4A0WTVCKDHJKQJRFERN8Z
+  - img "Tape Measure 7.5m"
+  - button "Compare":
+  - heading "Tape Measure 7.5m" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $7.23
+- 'link "Cross-head screws Compare Cross-head screws CO₂: A B C D E $7.99"':
+  - /url: /product/01M6C4A0Y8YZXVFZA559JS7W7Y
+  - img "Cross-head screws"
+  - button "Compare":
+  - heading "Cross-head screws" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $7.99
+- 'link "Slip Joint Pliers Compare Slip Joint Pliers CO₂: A B C D E $9.17"':
+  - /url: /product/01M6C4A0T8FB982X63FX0XZXKC
+  - img "Slip Joint Pliers"
+  - button "Compare":
+  - heading "Slip Joint Pliers" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $9.17
+- navigation:
+  - list:
+    - button "Previous": «
+    - button "Page-1": "1"
+    - button "Page-2": "2"
+    - button "Page-3": "3"
+    - button "Page-4": "4"
+    - button "Page-5": "5"
+    - button "Next": »
+- contentinfo:
+  - generic: Learn & Explore
+  - link "Learn Test Automation Hands-on courses for Playwright, Robot Framework, APIs and more":
+    - /url: https://onlinecourses.testsmith.io
+    - generic: Learn Test Automation
+    - text: Hands-on courses for Playwright, Robot Framework, APIs and more
+  - link "API Spector Open-source API testing, mocking and contract testing":
+    - /url: https://api-spector.dev
+    - generic: API Spector
+    - text: Open-source API testing, mocking and contract testing
+  - link "GitHub Source code, issues and contributions":
+    - /url: https://github.com/testsmith-io/practice-software-testing
+    - generic: GitHub
+    - text: Source code, issues and contributions
+  - text: This is a DEMO application, used for software testing training purpose. |
+  - link "Privacy Policy":
+    - /url: /privacy
+  - text: "| Banner photo by"
+  - link "Barn Images":
+    - /url: https://unsplash.com/@barnimages
+  - text: "on"
+  - link "Unsplash":
+    - /url: https://unsplash.com/photos/t5YUoHW6zRo
+  - text: .
+  - generic: v2.5 | Built 2026-10-11 | Angular 20.0.5
+- button "Open chat":
+- button "Show live shop activity":
+
+PAGE BREAK
+
+- text: View the
+- link "Documentation":
+  - /url: https://testsmith-io.github.io/practice-software-testing/#/
+- text: for this application.
+- generic: Practice Black Box Testing & Bug Hunting
+- button "Testing Guide"
+- button "🐛 Bug Hunting"
+- navigation:
+  - link "Practice Software Testing - Toolshop":
+    - /url: /
+  - menubar "Main menu":
+    - menuitem "Home":
+      - link "Home":
+        - /url: /
+    - menuitem "Categories":
+      - button "Categories"
+    - menuitem "Contact":
+      - link "Contact":
+        - /url: /contact
+    - menuitem "Sign in":
+      - link "Sign in":
+        - /url: /auth/login
+  - button "Select language":
+    - text: EN
+- heading "Practice Software Testing - Toolshop" [level=1]
+- paragraph:
+  - img "Banner"
+- separator
+- text: Enjoyed testing this app? Level up with hands-on software testing courses.
+- link "Explore courses":
+  - /url: https://onlinecourses.testsmith.io/?utm_source=pst&utm_medium=homepage&utm_campaign=app_promo
+- heading "Sort" [level=4]:
+  - text: Sort
+- separator
+- combobox "sort":
+  - option
+  - option "Name (A - Z)"
+  - option "Name (Z - A)"
+  - option "Price (High - Low)"
+  - option "Price (Low - High)" [selected]
+  - option "CO₂ Rating (A - E)"
+  - option "CO₂ Rating (E - A)"
+- heading "Price Range" [level=4]:
+  - text: Price Range
+- separator
+- generic "ngx-slider":
+  - slider "ngx-slider"
+  - slider "ngx-slider-max"
+  - generic: "0"
+  - generic: "200"
+  - generic: "1"
+  - generic: "100"
+- heading "Search" [level=4]:
+  - text: Search
+- separator
+- generic: Search
+- textbox "Search"
+- button "X"
+- button "Search"
+- heading "Filters" [level=4]:
+  - text: Filters
+- separator
+- heading "By category:" [level=4]
+- group "Categories":
+  - generic: Categories
+  - checkbox "Hand Tools"
+  - text: Hand Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Hammer"
+      - text: Hammer
+      - checkbox "Hand Saw"
+      - text: Hand Saw
+      - checkbox "Wrench"
+      - text: Wrench
+      - checkbox "Screwdriver"
+      - text: Screwdriver
+      - checkbox "Pliers"
+      - text: Pliers
+      - checkbox "Chisels"
+      - text: Chisels
+      - checkbox "Measures"
+      - text: Measures
+  - checkbox "Power Tools"
+  - text: Power Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Grinder"
+      - text: Grinder
+      - checkbox "Sander"
+      - text: Sander
+      - checkbox "Saw"
+      - text: Saw
+      - checkbox "Drill"
+      - text: Drill
+  - checkbox "Other"
+  - text: Other
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Tool Belts"
+      - text: Tool Belts
+      - checkbox "Storage Solutions"
+      - text: Storage Solutions
+      - checkbox "Workbench"
+      - text: Workbench
+      - checkbox "Safety Gear"
+      - text: Safety Gear
+      - checkbox "Fasteners"
+      - text: Fasteners
+- heading "By brand:" [level=4]
+- group "Brands":
+  - generic: Brands
+  - checkbox "ForgeFlex Tools"
+  - text: ForgeFlex Tools
+  - checkbox "MightyCraft Hardware"
+  - text: MightyCraft Hardware
+- heading "Sustainability:" [level=4]
+- group "Eco-Friendly Products":
+  - generic: Eco-Friendly Products
+  - checkbox "Show only eco-friendly products"
+  - text: Show only eco-friendly products
+- 'link "Measuring Tape Compare Measuring Tape CO₂: A B C D E $10.07"':
+  - /url: /product/01M6C4A0WXBMZQWJAAZ00FM706
+  - img "Measuring Tape"
+  - button "Compare":
+  - heading "Measuring Tape" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $10.07
+- 'link "Thor Hammer Compare Thor Hammer CO₂: A B C D E $11.14"':
+  - /url: /product/01M6C4A0V0PJGF347FBESZQP37
+  - img "Thor Hammer"
+  - button "Compare":
+  - heading "Thor Hammer" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $11.14
+- 'link "Claw Hammer Compare Claw Hammer CO₂: A B C D E $11.48"':
+  - /url: /product/01M6C4A0TXYG00CN7ZK7SDFSHD
+  - img "Claw Hammer"
+  - button "Compare":
+  - heading "Claw Hammer" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $11.48
+- 'link "Pliers Compare Pliers CO₂: A B C D E $12.01"':
+  - /url: /product/01M6C4A0SQFGFVP0MGWWJVDDPS
+  - img "Pliers"
+  - button "Compare":
+  - heading "Pliers" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $12.01
+- 'link "Wood Saw ECO Compare Wood Saw CO₂: A B C D E $12.18"':
+  - /url: /product/01M6C4A0VTBB4RTKNKFFCWPTNA
+  - img "Wood Saw"
+  - text: ECO
+  - button "Compare":
+  - heading "Wood Saw" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $12.18
+- 'link "Hammer Compare Hammer CO₂: A B C D E $12.58"':
+  - /url: /product/01M6C4A0TRAA0XQBDER7Z82G7G
+  - img "Hammer"
+  - button "Compare":
+  - heading "Hammer" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $12.58
+- 'link "Tape Measure 5m Compare Tape Measure 5m CO₂: A B C D E $12.91"':
+  - /url: /product/01M6C4A0X2VM4B03757JZ575XT
+  - img "Tape Measure 5m"
+  - button "Compare":
+  - heading "Tape Measure 5m" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $12.91
+- 'link "Chisels Set Compare Chisels Set CO₂: A B C D E $12.96"':
+  - /url: /product/01M6C4A0WEDQTKYYDVEP7MN2GN
+  - img "Chisels Set"
+  - button "Compare":
+  - heading "Chisels Set" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $12.96
+- 'link "Claw Hammer with Shock Reduction Grip Compare Claw Hammer with Shock Reduction Grip CO₂: A B C D E $13.41"':
+  - /url: /product/01M6C4A0TH7SQQJTRMN504D4J5
+  - img "Claw Hammer with Shock Reduction Grip"
+  - button "Compare":
+  - heading "Claw Hammer with Shock Reduction Grip" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $13.41
+- navigation:
+  - list:
+    - button "Previous": «
+    - button "Page-1": "1"
+    - button "Page-2" [active]: "2"
+    - button "Page-3": "3"
+    - button "Page-4": "4"
+    - button "Page-5": "5"
+    - button "Next": »
+- contentinfo:
+  - generic: Learn & Explore
+  - link "Learn Test Automation Hands-on courses for Playwright, Robot Framework, APIs and more":
+    - /url: https://onlinecourses.testsmith.io
+    - generic: Learn Test Automation
+    - text: Hands-on courses for Playwright, Robot Framework, APIs and more
+  - link "API Spector Open-source API testing, mocking and contract testing":
+    - /url: https://api-spector.dev
+    - generic: API Spector
+    - text: Open-source API testing, mocking and contract testing
+  - link "GitHub Source code, issues and contributions":
+    - /url: https://github.com/testsmith-io/practice-software-testing
+    - generic: GitHub
+    - text: Source code, issues and contributions
+  - text: This is a DEMO application, used for software testing training purpose. |
+  - link "Privacy Policy":
+    - /url: /privacy
+  - text: "| Banner photo by"
+  - link "Barn Images":
+    - /url: https://unsplash.com/@barnimages
+  - text: "on"
+  - link "Unsplash":
+    - /url: https://unsplash.com/photos/t5YUoHW6zRo
+  - text: .
+  - generic: v2.5 | Built 2026-10-11 | Angular 20.0.5
+- button "Open chat":
+- button "Show live shop activity":
+
+PAGE BREAK
+
+- text: View the
+- link "Documentation":
+  - /url: https://testsmith-io.github.io/practice-software-testing/#/
+- text: for this application.
+- generic: Practice Black Box Testing & Bug Hunting
+- button "Testing Guide"
+- button "🐛 Bug Hunting"
+- navigation:
+  - link "Practice Software Testing - Toolshop":
+    - /url: /
+  - menubar "Main menu":
+    - menuitem "Home":
+      - link "Home":
+        - /url: /
+    - menuitem "Categories":
+      - button "Categories"
+    - menuitem "Contact":
+      - link "Contact":
+        - /url: /contact
+    - menuitem "Sign in":
+      - link "Sign in":
+        - /url: /auth/login
+  - button "Select language":
+    - text: EN
+- heading "Practice Software Testing - Toolshop" [level=1]
+- paragraph:
+  - img "Banner"
+- separator
+- text: Enjoyed testing this app? Level up with hands-on software testing courses.
+- link "Explore courses":
+  - /url: https://onlinecourses.testsmith.io/?utm_source=pst&utm_medium=homepage&utm_campaign=app_promo
+- heading "Sort" [level=4]:
+  - text: Sort
+- separator
+- combobox "sort":
+  - option
+  - option "Name (A - Z)"
+  - option "Name (Z - A)"
+  - option "Price (High - Low)"
+  - option "Price (Low - High)" [selected]
+  - option "CO₂ Rating (A - E)"
+  - option "CO₂ Rating (E - A)"
+- heading "Price Range" [level=4]:
+  - text: Price Range
+- separator
+- generic "ngx-slider":
+  - slider "ngx-slider"
+  - slider "ngx-slider-max"
+  - generic: "0"
+  - generic: "200"
+  - generic: "1"
+  - generic: "100"
+- heading "Search" [level=4]:
+  - text: Search
+- separator
+- generic: Search
+- textbox "Search"
+- button "X"
+- button "Search"
+- heading "Filters" [level=4]:
+  - text: Filters
+- separator
+- heading "By category:" [level=4]
+- group "Categories":
+  - generic: Categories
+  - checkbox "Hand Tools"
+  - text: Hand Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Hammer"
+      - text: Hammer
+      - checkbox "Hand Saw"
+      - text: Hand Saw
+      - checkbox "Wrench"
+      - text: Wrench
+      - checkbox "Screwdriver"
+      - text: Screwdriver
+      - checkbox "Pliers"
+      - text: Pliers
+      - checkbox "Chisels"
+      - text: Chisels
+      - checkbox "Measures"
+      - text: Measures
+  - checkbox "Power Tools"
+  - text: Power Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Grinder"
+      - text: Grinder
+      - checkbox "Sander"
+      - text: Sander
+      - checkbox "Saw"
+      - text: Saw
+      - checkbox "Drill"
+      - text: Drill
+  - checkbox "Other"
+  - text: Other
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Tool Belts"
+      - text: Tool Belts
+      - checkbox "Storage Solutions"
+      - text: Storage Solutions
+      - checkbox "Workbench"
+      - text: Workbench
+      - checkbox "Safety Gear"
+      - text: Safety Gear
+      - checkbox "Fasteners"
+      - text: Fasteners
+- heading "By brand:" [level=4]
+- group "Brands":
+  - generic: Brands
+  - checkbox "ForgeFlex Tools"
+  - text: ForgeFlex Tools
+  - checkbox "MightyCraft Hardware"
+  - text: MightyCraft Hardware
+- heading "Sustainability:" [level=4]
+- group "Eco-Friendly Products":
+  - generic: Eco-Friendly Products
+  - checkbox "Show only eco-friendly products"
+  - text: Show only eco-friendly products
+- 'link "Mini Screwdriver Compare Mini Screwdriver CO₂: A B C D E $13.96"':
+  - /url: /product/01M6C4A0WB6N8SMKM9HT7G364T
+  - img "Mini Screwdriver"
+  - button "Compare":
+  - heading "Mini Screwdriver" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $13.96
+- 'link "Angled Spanner Compare Angled Spanner CO₂: A B C D E $14.14"':
+  - /url: /product/01M6C4A0W15AYQAXMTPSKMV6D2
+  - img "Angled Spanner"
+  - button "Compare":
+  - heading "Angled Spanner" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $14.14
+- 'link "Combination Pliers Compare Combination Pliers CO₂: A B C D E $14.15"':
+  - /url: /product/01M6C4A0S1M9BATY0NANAQEB7Y
+  - img "Combination Pliers"
+  - button "Compare":
+  - heading "Combination Pliers" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $14.15
+- 'link "Long Nose Pliers Compare Long Nose Pliers CO₂: A B C D E Out of stock $14.24"':
+  - /url: /product/01M6C4A0T2B2PGCEPXM4KJ43K6
+  - img "Long Nose Pliers"
+  - button "Compare":
+  - heading "Long Nose Pliers" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: Out of stock
+  - generic: $14.24
+- 'link "Square Ruler Compare Square Ruler CO₂: A B C D E $15.75"':
+  - /url: /product/01M6C4A0X9YR0JTHRT97WEHVB1
+  - img "Square Ruler"
+  - button "Compare":
+  - heading "Square Ruler" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $15.75
+- 'link "Sledgehammer Compare Sledgehammer CO₂: A B C D E $17.75"':
+  - /url: /product/01M6C4A0V4E6XVH9NMKSDM2KAA
+  - img "Sledgehammer"
+  - button "Compare":
+  - heading "Sledgehammer" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $17.75
+- 'link "Ear Protection ECO Compare Ear Protection CO₂: A B C D E $18.58"':
+  - /url: /product/01M6C4A0Y1H5RKASHT9365WFFR
+  - img "Ear Protection"
+  - text: ECO
+  - button "Compare":
+  - heading "Ear Protection" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $18.58
+- 'link "Court Hammer Compare Court Hammer CO₂: A B C D E $18.63"':
+  - /url: /product/01M6C4A0VPZHXP5W1RE8XDEQVB
+  - img "Court Hammer"
+  - button "Compare":
+  - heading "Court Hammer" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $18.63
+- 'link "Claw Hammer with Fiberglass Handle Compare Claw Hammer with Fiberglass Handle CO₂: A B C D E $20.14"':
+  - /url: /product/01M6C4A0VBRCPB04K9JTZY1T5X
+  - img "Claw Hammer with Fiberglass Handle"
+  - button "Compare":
+  - heading "Claw Hammer with Fiberglass Handle" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $20.14
+- navigation:
+  - list:
+    - button "Previous": «
+    - button "Page-1": "1"
+    - button "Page-2": "2"
+    - button "Page-3" [active]: "3"
+    - button "Page-4": "4"
+    - button "Page-5": "5"
+    - button "Next": »
+- contentinfo:
+  - generic: Learn & Explore
+  - link "Learn Test Automation Hands-on courses for Playwright, Robot Framework, APIs and more":
+    - /url: https://onlinecourses.testsmith.io
+    - generic: Learn Test Automation
+    - text: Hands-on courses for Playwright, Robot Framework, APIs and more
+  - link "API Spector Open-source API testing, mocking and contract testing":
+    - /url: https://api-spector.dev
+    - generic: API Spector
+    - text: Open-source API testing, mocking and contract testing
+  - link "GitHub Source code, issues and contributions":
+    - /url: https://github.com/testsmith-io/practice-software-testing
+    - generic: GitHub
+    - text: Source code, issues and contributions
+  - text: This is a DEMO application, used for software testing training purpose. |
+  - link "Privacy Policy":
+    - /url: /privacy
+  - text: "| Banner photo by"
+  - link "Barn Images":
+    - /url: https://unsplash.com/@barnimages
+  - text: "on"
+  - link "Unsplash":
+    - /url: https://unsplash.com/photos/t5YUoHW6zRo
+  - text: .
+  - generic: v2.5 | Built 2026-10-11 | Angular 20.0.5
+- button "Open chat":
+- button "Show live shop activity":
+
+PAGE BREAK
+
+- text: View the
+- link "Documentation":
+  - /url: https://testsmith-io.github.io/practice-software-testing/#/
+- text: for this application.
+- generic: Practice Black Box Testing & Bug Hunting
+- button "Testing Guide"
+- button "🐛 Bug Hunting"
+- navigation:
+  - link "Practice Software Testing - Toolshop":
+    - /url: /
+  - menubar "Main menu":
+    - menuitem "Home":
+      - link "Home":
+        - /url: /
+    - menuitem "Categories":
+      - button "Categories"
+    - menuitem "Contact":
+      - link "Contact":
+        - /url: /contact
+    - menuitem "Sign in":
+      - link "Sign in":
+        - /url: /auth/login
+  - button "Select language":
+    - text: EN
+- heading "Practice Software Testing - Toolshop" [level=1]
+- paragraph:
+  - img "Banner"
+- separator
+- text: Enjoyed testing this app? Level up with hands-on software testing courses.
+- link "Explore courses":
+  - /url: https://onlinecourses.testsmith.io/?utm_source=pst&utm_medium=homepage&utm_campaign=app_promo
+- heading "Sort" [level=4]:
+  - text: Sort
+- separator
+- combobox "sort":
+  - option
+  - option "Name (A - Z)"
+  - option "Name (Z - A)"
+  - option "Price (High - Low)"
+  - option "Price (Low - High)" [selected]
+  - option "CO₂ Rating (A - E)"
+  - option "CO₂ Rating (E - A)"
+- heading "Price Range" [level=4]:
+  - text: Price Range
+- separator
+- generic "ngx-slider":
+  - slider "ngx-slider"
+  - slider "ngx-slider-max"
+  - generic: "0"
+  - generic: "200"
+  - generic: "1"
+  - generic: "100"
+- heading "Search" [level=4]:
+  - text: Search
+- separator
+- generic: Search
+- textbox "Search"
+- button "X"
+- button "Search"
+- heading "Filters" [level=4]:
+  - text: Filters
+- separator
+- heading "By category:" [level=4]
+- group "Categories":
+  - generic: Categories
+  - checkbox "Hand Tools"
+  - text: Hand Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Hammer"
+      - text: Hammer
+      - checkbox "Hand Saw"
+      - text: Hand Saw
+      - checkbox "Wrench"
+      - text: Wrench
+      - checkbox "Screwdriver"
+      - text: Screwdriver
+      - checkbox "Pliers"
+      - text: Pliers
+      - checkbox "Chisels"
+      - text: Chisels
+      - checkbox "Measures"
+      - text: Measures
+  - checkbox "Power Tools"
+  - text: Power Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Grinder"
+      - text: Grinder
+      - checkbox "Sander"
+      - text: Sander
+      - checkbox "Saw"
+      - text: Saw
+      - checkbox "Drill"
+      - text: Drill
+  - checkbox "Other"
+  - text: Other
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Tool Belts"
+      - text: Tool Belts
+      - checkbox "Storage Solutions"
+      - text: Storage Solutions
+      - checkbox "Workbench"
+      - text: Workbench
+      - checkbox "Safety Gear"
+      - text: Safety Gear
+      - checkbox "Fasteners"
+      - text: Fasteners
+- heading "By brand:" [level=4]
+- group "Brands":
+  - generic: Brands
+  - checkbox "ForgeFlex Tools"
+  - text: ForgeFlex Tools
+  - checkbox "MightyCraft Hardware"
+  - text: MightyCraft Hardware
+- heading "Sustainability:" [level=4]
+- group "Eco-Friendly Products":
+  - generic: Eco-Friendly Products
+  - checkbox "Show only eco-friendly products"
+  - text: Show only eco-friendly products
+- 'link "Adjustable Wrench Compare Adjustable Wrench CO₂: A B C D E $20.33"':
+  - /url: /product/01M6C4A0VX9JX5VK0MB7X8DCFE
+  - img "Adjustable Wrench"
+  - button "Compare":
+  - heading "Adjustable Wrench" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $20.33
+- 'link "Protective Gloves ECO Compare Protective Gloves CO₂: A B C D E $21.42"':
+  - /url: /product/01M6C4A0XP10F8V9VNN028C8PP
+  - img "Protective Gloves"
+  - text: ECO
+  - button "Compare":
+  - heading "Protective Gloves" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $21.42
+- 'link "Swiss Woodcarving Chisels Compare Swiss Woodcarving Chisels CO₂: A B C D E $22.96"':
+  - /url: /product/01M6C4A0WQ0B4MN5WM4MQJF0H8
+  - img "Swiss Woodcarving Chisels"
+  - button "Compare":
+  - heading "Swiss Woodcarving Chisels" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $22.96
+- 'link "Safety Goggles ECO Compare Safety Goggles CO₂: A B C D E $24.26"':
+  - /url: /product/01M6C4A0XEV9XRBWS84P3BZN9R
+  - img "Safety Goggles"
+  - text: ECO
+  - button "Compare":
+  - heading "Safety Goggles" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $24.26
+- 'link "Safety Helmet Face Shield ECO Compare Safety Helmet Face Shield CO₂: A B C D E $35.62"':
+  - /url: /product/01M6C4A0XJ8GC4KP4GDP7T1HQC
+  - img "Safety Helmet Face Shield"
+  - text: ECO
+  - button "Compare":
+  - heading "Safety Helmet Face Shield" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $35.62
+- 'link "Super-thin Protection Gloves ECO Compare Super-thin Protection Gloves CO₂: A B C D E $38.45"':
+  - /url: /product/01M6C4A0XV0K4T97S0AXRA3WRG
+  - img "Super-thin Protection Gloves"
+  - text: ECO
+  - button "Compare":
+  - heading "Super-thin Protection Gloves" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $38.45
+- 'link "Open-end Spanners (Set) Compare Open-end Spanners (Set) CO₂: A B C D E $38.51"':
+  - /url: /product/01M6C4A0W4D6TYN74H4VFXP06R
+  - img "Open-end Spanners (Set)"
+  - button "Compare":
+  - heading "Open-end Spanners (Set)" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $38.51
+- 'link "Construction Helmet ECO Compare Construction Helmet CO₂: A B C D E $41.29"':
+  - /url: /product/01M6C4A0XYG9NS1R45FBY06EA8
+  - img "Construction Helmet"
+  - text: ECO
+  - button "Compare":
+  - heading "Construction Helmet" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $41.29
+- 'link "Wood Carving Chisels Compare Wood Carving Chisels CO₂: A B C D E $45.23"':
+  - /url: /product/01M6C4A0WHF7WYSE3N6Q20NR6X
+  - img "Wood Carving Chisels"
+  - button "Compare":
+  - heading "Wood Carving Chisels" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $45.23
+- navigation:
+  - list:
+    - button "Previous": «
+    - button "Page-1": "1"
+    - button "Page-2": "2"
+    - button "Page-3": "3"
+    - button "Page-4" [active]: "4"
+    - button "Page-5": "5"
+    - button "Next": »
+- contentinfo:
+  - generic: Learn & Explore
+  - link "Learn Test Automation Hands-on courses for Playwright, Robot Framework, APIs and more":
+    - /url: https://onlinecourses.testsmith.io
+    - generic: Learn Test Automation
+    - text: Hands-on courses for Playwright, Robot Framework, APIs and more
+  - link "API Spector Open-source API testing, mocking and contract testing":
+    - /url: https://api-spector.dev
+    - generic: API Spector
+    - text: Open-source API testing, mocking and contract testing
+  - link "GitHub Source code, issues and contributions":
+    - /url: https://github.com/testsmith-io/practice-software-testing
+    - generic: GitHub
+    - text: Source code, issues and contributions
+  - text: This is a DEMO application, used for software testing training purpose. |
+  - link "Privacy Policy":
+    - /url: /privacy
+  - text: "| Banner photo by"
+  - link "Barn Images":
+    - /url: https://unsplash.com/@barnimages
+  - text: "on"
+  - link "Unsplash":
+    - /url: https://unsplash.com/photos/t5YUoHW6zRo
+  - text: .
+  - generic: v2.5 | Built 2026-10-11 | Angular 20.0.5
+- button "Open chat":
+- button "Show live shop activity":
+
+PAGE BREAK
+
+- text: View the
+- link "Documentation":
+  - /url: https://testsmith-io.github.io/practice-software-testing/#/
+- text: for this application.
+- generic: Practice Black Box Testing & Bug Hunting
+- button "Testing Guide"
+- button "🐛 Bug Hunting"
+- navigation:
+  - link "Practice Software Testing - Toolshop":
+    - /url: /
+  - menubar "Main menu":
+    - menuitem "Home":
+      - link "Home":
+        - /url: /
+    - menuitem "Categories":
+      - button "Categories"
+    - menuitem "Contact":
+      - link "Contact":
+        - /url: /contact
+    - menuitem "Sign in":
+      - link "Sign in":
+        - /url: /auth/login
+  - button "Select language":
+    - text: EN
+- heading "Practice Software Testing - Toolshop" [level=1]
+- paragraph:
+  - img "Banner"
+- separator
+- text: Enjoyed testing this app? Level up with hands-on software testing courses.
+- link "Explore courses":
+  - /url: https://onlinecourses.testsmith.io/?utm_source=pst&utm_medium=homepage&utm_campaign=app_promo
+- heading "Sort" [level=4]:
+  - text: Sort
+- separator
+- combobox "sort":
+  - option
+  - option "Name (A - Z)"
+  - option "Name (Z - A)"
+  - option "Price (High - Low)"
+  - option "Price (Low - High)" [selected]
+  - option "CO₂ Rating (A - E)"
+  - option "CO₂ Rating (E - A)"
+- heading "Price Range" [level=4]:
+  - text: Price Range
+- separator
+- generic "ngx-slider":
+  - slider "ngx-slider"
+  - slider "ngx-slider-max"
+  - generic: "0"
+  - generic: "200"
+  - generic: "1"
+  - generic: "100"
+- heading "Search" [level=4]:
+  - text: Search
+- separator
+- generic: Search
+- textbox "Search"
+- button "X"
+- button "Search"
+- heading "Filters" [level=4]:
+  - text: Filters
+- separator
+- heading "By category:" [level=4]
+- group "Categories":
+  - generic: Categories
+  - checkbox "Hand Tools"
+  - text: Hand Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Hammer"
+      - text: Hammer
+      - checkbox "Hand Saw"
+      - text: Hand Saw
+      - checkbox "Wrench"
+      - text: Wrench
+      - checkbox "Screwdriver"
+      - text: Screwdriver
+      - checkbox "Pliers"
+      - text: Pliers
+      - checkbox "Chisels"
+      - text: Chisels
+      - checkbox "Measures"
+      - text: Measures
+  - checkbox "Power Tools"
+  - text: Power Tools
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Grinder"
+      - text: Grinder
+      - checkbox "Sander"
+      - text: Sander
+      - checkbox "Saw"
+      - text: Saw
+      - checkbox "Drill"
+      - text: Drill
+  - checkbox "Other"
+  - text: Other
+  - list:
+    - group "Categories":
+      - generic: Categories
+      - checkbox "Tool Belts"
+      - text: Tool Belts
+      - checkbox "Storage Solutions"
+      - text: Storage Solutions
+      - checkbox "Workbench"
+      - text: Workbench
+      - checkbox "Safety Gear"
+      - text: Safety Gear
+      - checkbox "Fasteners"
+      - text: Fasteners
+- heading "By brand:" [level=4]
+- group "Brands":
+  - generic: Brands
+  - checkbox "ForgeFlex Tools"
+  - text: ForgeFlex Tools
+  - checkbox "MightyCraft Hardware"
+  - text: MightyCraft Hardware
+- heading "Sustainability:" [level=4]
+- group "Eco-Friendly Products":
+  - generic: Eco-Friendly Products
+  - checkbox "Show only eco-friendly products"
+  - text: Show only eco-friendly products
+- 'link "Cordless Drill 12V Compare Cordless Drill 12V CO₂: A B C D E $46.50"':
+  - /url: /product/01M6C4A0ZPQV3QPZ54P3C8T4V4
+  - img "Cordless Drill 12V"
+  - button "Compare":
+  - heading "Cordless Drill 12V" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $46.50
+- 'link "Bolt Cutters Compare Bolt Cutters CO₂: A B C D E $48.41"':
+  - /url: /product/01M6C4A0SVFR84J7KDX03A73A1
+  - img "Bolt Cutters"
+  - button "Compare":
+  - heading "Bolt Cutters" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $48.41
+- 'link "Sheet Sander Compare Sheet Sander CO₂: A B C D E $58.48"':
+  - /url: /product/01M6C4A0Z0BRPBR9G69A8AJVPZ
+  - img "Sheet Sander"
+  - button "Compare":
+  - heading "Sheet Sander" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $58.48
+- 'link "Leather toolbelt ECO Compare Leather toolbelt CO₂: A B C D E $61.16"':
+  - /url: /product/01M6C4A0YX8M7GF5S9EMRR1R8X
+  - img "Leather toolbelt"
+  - text: ECO
+  - button "Compare":
+  - heading "Leather toolbelt" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $61.16
+- 'link "Cordless Drill 24V Compare Cordless Drill 24V CO₂: A B C D E $66.54"':
+  - /url: /product/01M6C4A0ZFPFTM4GQ27FBSVX0G
+  - img "Cordless Drill 24V"
+  - button "Compare":
+  - heading "Cordless Drill 24V" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $66.54
+- 'link "Belt Sander Compare Belt Sander CO₂: A B C D E $73.59"':
+  - /url: /product/01M6C4A0Z3HE5QQBRA8CKVDEC6
+  - img "Belt Sander"
+  - button "Compare":
+  - heading "Belt Sander" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $73.59
+- 'link "Circular Saw Compare Circular Saw CO₂: A B C D E $80.19"':
+  - /url: /product/01M6C4A0Z6WKNNQEWX7YFZNSXZ
+  - img "Circular Saw"
+  - button "Compare":
+  - heading "Circular Saw" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $80.19
+- 'link "Tool Cabinet ECO Compare Tool Cabinet CO₂: A B C D E $86.71"':
+  - /url: /product/01M6C4A0YNX1843KSF8B2A0N10
+  - img "Tool Cabinet"
+  - text: ECO
+  - button "Compare":
+  - heading "Tool Cabinet" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $86.71
+- 'link "Drawer Tool Cabinet ECO Compare Drawer Tool Cabinet CO₂: A B C D E $89.55"':
+  - /url: /product/01M6C4A0YKWCC97YFMV7P5ZX0N
+  - img "Drawer Tool Cabinet"
+  - text: ECO
+  - button "Compare":
+  - heading "Drawer Tool Cabinet" [level=5]
+  - generic "A = most environmentally friendly, E = higher environmental impact":
+    - text: "CO₂:"
+    - generic: A
+    - generic: B
+    - generic: C
+    - generic: D
+    - generic: E
+  - generic: $89.55
+- navigation:
+  - list:
+    - button "Previous": «
+    - button "Page-1": "1"
+    - button "Page-2": "2"
+    - button "Page-3": "3"
+    - button "Page-4": "4"
+    - button "Page-5" [active]: "5"
+    - button "Next": »
+- contentinfo:
+  - generic: Learn & Explore
+  - link "Learn Test Automation Hands-on courses for Playwright, Robot Framework, APIs and more":
+    - /url: https://onlinecourses.testsmith.io
+    - generic: Learn Test Automation
+    - text: Hands-on courses for Playwright, Robot Framework, APIs and more
+  - link "API Spector Open-source API testing, mocking and contract testing":
+    - /url: https://api-spector.dev
+    - generic: API Spector
+    - text: Open-source API testing, mocking and contract testing
+  - link "GitHub Source code, issues and contributions":
+    - /url: https://github.com/testsmith-io/practice-software-testing
+    - generic: GitHub
+    - text: Source code, issues and contributions
+  - text: This is a DEMO application, used for software testing training purpose. |
+  - link "Privacy Policy":
+    - /url: /privacy
+  - text: "| Banner photo by"
+  - link "Barn Images":
+    - /url: https://unsplash.com/@barnimages
+  - text: "on"
+  - link "Unsplash":
+    - /url: https://unsplash.com/photos/t5YUoHW6zRo
+  - text: .
+  - generic: v2.5 | Built 2026-10-11 | Angular 20.0.5
+- button "Open chat":
+- button "Show live shop activity":
